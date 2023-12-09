@@ -1,0 +1,5 @@
+cd C:\Workplaces\Java\opencart
+mvn test
+
+
+https://github.com/anjaliiii07/opencart.git
