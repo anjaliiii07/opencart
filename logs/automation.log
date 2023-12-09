@@ -1,0 +1,3 @@
+16:05:52.787 [main] INFO  testCases.TC_002_LoginTest - Entering valid email and password..
+16:05:53.869 [main] INFO  testCases.TC_002_LoginTest - clicked on login button..
+16:05:53.916 [main] INFO  testCases.TC_002_LoginTest - **** Finished TC_002_LoginTest  ****
